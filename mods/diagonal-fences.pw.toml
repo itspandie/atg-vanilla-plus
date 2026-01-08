@@ -1,0 +1,13 @@
+name = "Diagonal Fences"
+filename = "DiagonalFences-v21.10.0+mc1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd14b92d2a1e25f7500ecba2e68f3c99319707d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7084322
+project-id = 458048

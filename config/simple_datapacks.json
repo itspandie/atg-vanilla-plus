@@ -1,0 +1,10 @@
+{
+  "copyDatapacks": false,
+  "showFeatures": true,
+  "globalDatapacks": true,
+  "sendRestartWarning": true,
+  "datapacksPaths": [
+    "datapacks",
+    "C:\\Users\\PC\\AppData\\Roaming\\ModrinthApp\\profiles\\VP 1.21.10\\datapacks"
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Scholar"
+filename = "scholar-fabric-1.21.10-1.1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "772e7ffb6b1766f43251d81d427bf26ec536b473"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7309139
+project-id = 961802

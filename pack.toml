@@ -1,0 +1,12 @@
+name = "ATGVP_Dev"
+version = "DEV-1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b9fb0289a6dad06203b4a509645b4fe8b3e4eb14f7175a03a959bea9b22a679"
+
+[versions]
+fabric = "0.18.3"
+minecraft = "1.21.10"

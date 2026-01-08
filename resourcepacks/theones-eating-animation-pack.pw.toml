@@ -1,0 +1,13 @@
+name = "Theone's Eating Animation Pack"
+filename = "Theone's Eating Animation Pack v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5330ab44c54f01b99e3ab3017ab52eb54ef88912"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6725662
+project-id = 1137038

@@ -1,0 +1,13 @@
+name = "Happy Ghasts Boost"
+filename = "happy_ghasts_boost-merged-1.21.9-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ecbfb9d5eb1bd8a950f519f25061fb9ebd584a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7100936
+project-id = 1360543

@@ -1,0 +1,13 @@
+name = "Minecarts with Wheels"
+filename = "Minecarts with Wheels.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b41084d24380c65dec0647cd3f5a549c93dfeacc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7125102
+project-id = 640876

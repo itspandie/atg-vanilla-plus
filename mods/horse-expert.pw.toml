@@ -1,0 +1,13 @@
+name = "Horse Expert"
+filename = "HorseExpert-v21.10.0+mc1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f3635e6359fef33f7d46d205616e2cafc6048f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7084065
+project-id = 666942

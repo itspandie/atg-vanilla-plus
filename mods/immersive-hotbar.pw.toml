@@ -1,0 +1,13 @@
+name = "Immersive Hotbar"
+filename = "immersive-hotbar-1.0.4-1.21.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "355a576aba43fd29f9780db5db761b7cb283c8a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7056196
+project-id = 1238099

@@ -1,0 +1,13 @@
+name = "AL's Zombies Revamped"
+filename = "AL's Zombies Revamped 1.7.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e8559e4e65d854aa4e10280a3d2f484b4e9429e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7249033
+project-id = 884697

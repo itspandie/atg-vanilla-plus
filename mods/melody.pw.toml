@@ -1,0 +1,13 @@
+name = "Melody"
+filename = "melody_fabric_1.0.14_MC_1.21.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46e439abfe66794c18bb9d4a9c857d0b00da29df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7173094
+project-id = 938643

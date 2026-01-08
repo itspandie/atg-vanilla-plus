@@ -1,0 +1,13 @@
+name = "Customizable Elytra"
+filename = "customizableelytra-fabric-2.2.8+1.21.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49b45e426833b3a6a15fef63075e30b5af156968"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7297481
+project-id = 440047

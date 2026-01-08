@@ -1,0 +1,13 @@
+name = "Diagonal Windows"
+filename = "DiagonalWindows-v21.10.0+mc1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f0fe94dbc9ffb9f8a4fb580dd21829ad2abb3d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7084324
+project-id = 891328

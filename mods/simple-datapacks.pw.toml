@@ -1,0 +1,13 @@
+name = "Simple Datapacks"
+filename = "simple-datapacks-fabric-2.3+1.21.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bef35623fc9bf59d111a1a954c2638a2d3b93073"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7368703
+project-id = 1325828

@@ -1,0 +1,13 @@
+name = "AL's Creepers Revamped"
+filename = "AL's Creepers Revamped 1.5.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f766957c1e087a89f1c31bd4fa23510a8a200264"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7248990
+project-id = 921255

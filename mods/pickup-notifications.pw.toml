@@ -1,0 +1,13 @@
+name = "Pickup Notifications"
+filename = "pickupnotifications-2.0.0+1.21.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7736e4861820b38b614129625cada7e70b41543"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7063359
+project-id = 1292780

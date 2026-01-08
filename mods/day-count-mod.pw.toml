@@ -1,0 +1,13 @@
+name = "Day Count"
+filename = "DayCount-1.3.5-mc1.21.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fa04e409532db296816425518d8b9dbd1fdf64c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7097934
+project-id = 787938

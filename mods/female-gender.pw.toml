@@ -1,0 +1,13 @@
+name = "Female Gender Mod"
+filename = "Female-Gender-Mod-fabric-5.0.0-Beta.2+1.21.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e9779f3f9f3ce793b8a2bf7447e9532a7d1e282"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7097277
+project-id = 456319

@@ -1,0 +1,13 @@
+name = "Moving Elevators"
+filename = "movingelevators-1.4.11a-fabric-mc1.21.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e75a46e54e45d1a8108020149315689fd643b1c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7377402
+project-id = 373051

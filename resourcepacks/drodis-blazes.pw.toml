@@ -1,0 +1,13 @@
+name = "Drodi's Blazes"
+filename = "§4Drodi's Blazes [V1.4.1].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a14144fad533c00d413e307687320ec44441ee56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6838649
+project-id = 1318485

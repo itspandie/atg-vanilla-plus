@@ -1,0 +1,13 @@
+name = "Highlight"
+filename = "highlight-fabric-1.21.9-3.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dc4f8957bdb26456e7f547dd343447176f9d438"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7330435
+project-id = 667245

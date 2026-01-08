@@ -1,0 +1,13 @@
+name = "Recolourful Containers GUI + HUD"
+filename = "Recolourful Containers 3.0.1 (1.19.4+).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "957ea70d893ad333f623a0c52578e0a5e9c4da4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7159950
+project-id = 1076084

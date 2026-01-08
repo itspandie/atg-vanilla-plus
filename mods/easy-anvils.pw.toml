@@ -1,0 +1,13 @@
+name = "Easy Anvils"
+filename = "EasyAnvils-v21.10.0+mc1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7503dd8e592af640ce36ef49ce66931b780f5ca1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7084348
+project-id = 682567

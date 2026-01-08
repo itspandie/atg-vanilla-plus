@@ -1,0 +1,13 @@
+name = "AL's Scorpions & Crabs"
+filename = "AL's Scorpions  Crabs 1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cb66ca942c9ad0f74e430ce8050291fbf9af3eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7249144
+project-id = 1133451

@@ -1,0 +1,13 @@
+name = "Dawn Of Time"
+filename = "Dawn Of Time-fabric-1.21.10-1.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dee321fd11378f2612872c1e2709ca3d38ea5b73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7195832
+project-id = 312359

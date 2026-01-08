@@ -1,0 +1,13 @@
+name = "Text Formatting Everywhere"
+filename = "textformattingeverywhere-fabric-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11ca848db5d65fb9d93618959bd6eb4d17aa5816"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7076675
+project-id = 1152847

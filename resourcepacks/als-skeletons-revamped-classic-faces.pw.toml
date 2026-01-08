@@ -1,0 +1,13 @@
+name = "AL's Skeletons Revamped: Classic Faces"
+filename = "AL's Skeletons Revamped-Classic Faces 1.0.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee47a4633f42bebbccbb45d095bb947be1b66e2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7249059
+project-id = 1293970

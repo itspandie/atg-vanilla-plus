@@ -1,0 +1,13 @@
+name = "Litematica Update Port"
+filename = "litematica-fabric-1.21.10-0.24.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06cac7bbf4261df9957ceaca77f0ec019415a697"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7371191
+project-id = 1205459
