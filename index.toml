@@ -29,50 +29,6 @@ file = "config/axesareweapons.json5"
 hash = "0abb77ff7bac93972090e77b8171d3f7976c500ed2be4bd946826abd17db200a"
 
 [[files]]
-file = "config/axiom/axiom.json"
-hash = "81850467d2f46369fca05404b75ca81b8dcab4911be1b6d0a584a8875e4ff467"
-
-[[files]]
-file = "config/axiom/imgui.ini"
-hash = "eab0deab429309cd33a5f716f63c122b6a20ede2a7bed8dbd206934e16276f7e"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/clear_foliage.nbt"
-hash = "1a75797bcaa0efbde50ca305b415c7328240197e048d07dfeb4ea22716a7a7e0"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/flowers.nbt"
-hash = "706ff046e5d5d051f789592c7123664df6cd9f7af49a33a92aa8405f77a7e3a1"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/grass.nbt"
-hash = "80861529b84033819c05ad1fabf9bd891fe8823b8e86c7bd7aa3ab5d750fa593"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/heart.nbt"
-hash = "0e05f8ca846f81238827dcb569f9e5235f70cfca675af00dc5b156994b4d5d75"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/kelp.nbt"
-hash = "04b7784ce23f0b861b6904d149dbab4180771ba04f0f90af39b68100501913c9"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/leafy_bushes.nbt"
-hash = "a82d5d6071ebe4c8a34642afe75c5131854c8a5c022621fb70a964267cb8e2c5"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/terrain__desert.nbt"
-hash = "d94ee13050de6ddbd35172e927877ffcb5f66d078db78747197a3b8a6634f94d"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/terrain__plains.nbt"
-hash = "ba9227232bc8eb93dfd57631176d4a6a8eb6d9e160d67f3bd2efd318ff0232af"
-
-[[files]]
-file = "config/axiom/tool_presets/script_brush/vines.nbt"
-hash = "c6813983b09e7a4a9d8681012bd9307ffb91cedbe35ff26d1e902cdbefc64a9d"
-
-[[files]]
 file = "config/badoptimizations.txt"
 hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
 
@@ -959,10 +915,6 @@ hash = "b4274510339b21e724260aa05e1b4db6d21403a99229513614084d16bc4bd7b5"
 [[files]]
 file = "icon.png"
 hash = "260d006c4814ff891630700648f38f16fba0bb26596723b4181cde13b00defcf"
-
-[[files]]
-file = "mods/Axiom-5.2.1-for-MC1.21.10.jar"
-hash = "d765dc032d37f624c9b46c644c8b7e8d55364bcf41dea32572c521df53aac5e5"
 
 [[files]]
 file = "mods/BiomesOPlenty-fabric-1.21.10-21.10.0.4.jar"
