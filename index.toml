@@ -921,6 +921,42 @@ file = "datapacks/AllMobHeads_V10.18.zip"
 hash = "1dc7eda2e82657f8abfa31d293d9ac0d894f012348cc84133be94ca253a5062b"
 
 [[files]]
+file = "emotes/Dance (Ralsei).emotecraft"
+hash = "e7eac43d03fb92a561b1921dc3804128948d9e2281f5762bd9c60f1f9f330192"
+
+[[files]]
+file = "emotes/Family Guy Death.emotecraft"
+hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
+
+[[files]]
+file = "emotes/GigaChad.emotecraft"
+hash = "606397e6f922cc6bb2b2e8b5fedd0c47dbac108ff4a6336efe07960c260b4816"
+
+[[files]]
+file = "emotes/Proxima Creature.emotecraft"
+hash = "083aa2db244da11c34bb5fdb362f9ab499839647b281a37056b4e1dad49f3614"
+
+[[files]]
+file = "emotes/Showing suit.emotecraft"
+hash = "118f9ea44e99aefa3f825015ec1296b46d17ad3ee61c35eae15e4ecf4c7feeaf"
+
+[[files]]
+file = "emotes/The Luddy.emotecraft"
+hash = "5b0ad6df6aee1f451cc60492fafd6d88932cbdd65435737a973b0921d2ab1fda"
+
+[[files]]
+file = "emotes/Twerk.emotecraft"
+hash = "bc4500b91c27489300db6fd4447bd8057ef4054633873bd264b03010d09c5f95"
+
+[[files]]
+file = "emotes/Virtual insanity.emotecraft"
+hash = "6ec3070c9fc04100f386525947b3f3152d28be8584ff4042724026c6b1171af2"
+
+[[files]]
+file = "emotes/§1§l§o[§f§l§on7+§1§l§o] §eJesus+.emotecraft"
+hash = "b4274510339b21e724260aa05e1b4db6d21403a99229513614084d16bc4bd7b5"
+
+[[files]]
 file = "icon.png"
 hash = "260d006c4814ff891630700648f38f16fba0bb26596723b4181cde13b00defcf"
 
