@@ -3,7 +3,7 @@
 ## This is all a reminder on how to add mods and stuff to this pack and update it
 
 # To add mods:
-cd ~/Documents/ATGVP_Dev
+cd ~/Documents/ATGVPlus_Dev
 
 packwiz mr add [URL] (for modrinth)
 
