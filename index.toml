@@ -298,7 +298,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "e4382af44c3f671a17098f49909312300e6eb20c0dcfde11f5555d946f8c8714"
+hash = "3c8f61db457c69b46b05e8ab8abad403a2b6c3c429bacb281688a72a533024d0"
 
 [[files]]
 file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
@@ -306,7 +306,7 @@ hash = "e4bb654c7fb8f74041d88bfdc1feee789d4211b02236f01dabf79bd80756cb64"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "55f8cce81f60e3886accf917fc246b87c0efa99563743f7421f6b1d153f389a8"
+hash = "fe1a6be493200f9c34cc845727e5858e6f82d068ce70fbea8c151adaa1446b2f"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -318,7 +318,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "0a793191499bbec0afd2d4e78b14dbd61162e4f33a5efa3b3a72410105d3205e"
+hash = "065ccb39b8867f9d13a87cf33029436ec2404627a76bbff235817d609e2050b2"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1898,7 +1898,7 @@ hash = "490d8d1b02dbdeeae0fc77ddc9d72ceb1a04a650ff0ceac7c43349ba1962ec54"
 
 [[files]]
 file = "servers.dat"
-hash = "9a21b2552b1589e73e328ff38169b0df67bed8d6cdfef3c4ea11c536161602fd"
+hash = "cf44755e624e4eef2c8a4d10b1a96306caf19c33eeb43832ef733cfdd707319b"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
