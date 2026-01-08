@@ -937,10 +937,6 @@ file = "mods/GlitchCore-fabric-1.21.10-21.10.0.4.jar"
 hash = "ba0375f5824c2919e444aac9b4a15392990a829e0f58df53d399e8ce3e3219f0"
 
 [[files]]
-file = "mods/HMI 5.1.1 (1.21.9  - 1.21.10).jar.disabled"
-hash = "ab8aedb36861448e7ff51611cde4499a28778ff3a5d867bd3844e90dc60f039a"
-
-[[files]]
 file = "mods/ImmersiveUI-FABRIC-0.3.5+1.21.9.jar"
 hash = "ff34f2edff6c79c63c806b8a41077151de1f883472d55b83085c11f00c54a636"
 
