@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".directory"
-hash = "b81d82040c4c9ead774a80b5cc9f598314e98f9dcf76f8319f8f2558e75d404d"
-
-[[files]]
 file = "config/Chalk.json5"
 hash = "2d0216d2efe64f9f98e1705ee6271d3e4bea21ba6174d88fb5e9ffcb33db8f31"
 
@@ -651,10 +647,6 @@ hash = "96b6977562608e564c6469a2bd7d501ae8ad46d3d6c31b92d766235d27ab2f2d"
 [[files]]
 file = "config/ponder-client.json"
 hash = "ff07e5f6c28d0b9eef0d3a625234ecddbda55e392172b3054f4dafdb7aba0d3d"
-
-[[files]]
-file = "config/respackopts/_respackopts.conf"
-hash = "8e42c76481421e2b3f3c83481e3920319b78b69c6c987e02e4c52bc7ea4e1be4"
 
 [[files]]
 file = "config/respackopts/enchantmentOutlines.json"
